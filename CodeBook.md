@@ -70,7 +70,7 @@ angle(): Angle between to vectors.
 Please refer to code run_analysis.R. 
 Once the working directory is set, the codes could run and process the original data set to tidy data set as in tidy_data.txt.
 
-## The data labels
+## Result and labels
 The tidy data set has 180 observations of 81 variables.
 The data is labelled according to subject 1-30 and 6 activities:
 
