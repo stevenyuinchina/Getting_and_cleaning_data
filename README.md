@@ -8,7 +8,6 @@ One of the major components of a data scientist's job is to collect and clean da
 
 The emphasis of this course is on creating tidy data sets that can be used in downstream analyses. Once you have mastered the material in this course you will be ready to learn about the techniques for exploring, analyzing, and summarizing data offered through our courses track or other Statistics, Data Science, or Machine Learning MOOCs. 
 
-
 ## Brief Introduction on Course Project
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
@@ -18,3 +17,10 @@ Extracts only the measurements on the mean and standard deviation for each measu
 Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names. 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+## About this repository
+This repository is consists of four files:
+1. Readme.md      - A brief introduction to this repository
+2. CodeBook.md    - Code book to the project
+3. run_Analysis.R - Original codes for the project
+4. tidy_data.txt  - Output of the codes after running
