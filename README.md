@@ -20,7 +20,11 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 ## About this repository
 This repository is consists of four files:
+
 1. Readme.md      - A brief introduction to this repository
+
 2. CodeBook.md    - Code book to the project
+
 3. run_Analysis.R - Original codes for the project
+
 4. tidy_data.txt  - Output of the codes after running
